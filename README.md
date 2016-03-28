@@ -6,7 +6,6 @@ Repository for the Getting and Cleaning Data Course Project
 
 - CodeBook.md: describes the variables, the data, and any transformations performed to clean up the data
 - run_analysis.R: is the R script with the whole transformation
-- tidyData.txt: is the output of the run_analysis script with the tidy data set
 
 ## Description:
 
